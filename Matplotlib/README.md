@@ -5,7 +5,7 @@
 **1. [PyLab Module](https://github.com/Kowshik890/PythonLibraries/blob/main/Matplotlib/PyLab%20Module.ipynb)**
   * **Basic Plotting**
     * Plotting curves is done with the plot command
-  * Multiple plotting curves
+  * **Multiple Plotting Curves**
     * Plots can be overlaid. Just use the multiple plot commands.
   
 **2. [Object-oriented Interface](https://github.com/Kowshik890/PythonLibraries/blob/main/Matplotlib/Object-oriented%20Interface.ipynb)**
