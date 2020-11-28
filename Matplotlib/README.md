@@ -55,3 +55,5 @@
  * N.B: You can add an insert plot in the same figure by adding another axes object in the same figure canvas.
   
  **5. [Subplot2grid() Function](https://www.tutorialspoint.com/matplotlib/matplotlib_subplot2grid_function.htm)**
+ 
+ **6. [Grids](https://www.tutorialspoint.com/matplotlib/matplotlib_grids.htm)
