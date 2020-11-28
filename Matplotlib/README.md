@@ -56,4 +56,4 @@
   
  **5. [Subplot2grid() Function](https://www.tutorialspoint.com/matplotlib/matplotlib_subplot2grid_function.htm)**
  
- **6. [Grids](https://www.tutorialspoint.com/matplotlib/matplotlib_grids.htm)
+ **6. [Grids](https://www.tutorialspoint.com/matplotlib/matplotlib_grids.htm)**
