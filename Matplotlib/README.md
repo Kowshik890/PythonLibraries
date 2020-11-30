@@ -59,3 +59,5 @@
  **6. [Grids](https://www.tutorialspoint.com/matplotlib/matplotlib_grids.htm)**
  
  **7. [Formatting Axes](https://www.tutorialspoint.com/matplotlib/matplotlib_formatting_axes.htm)**
+ 
+ **8. [Twin Axes](https://www.tutorialspoint.com/matplotlib/matplotlib_twin_axes.htm)**
