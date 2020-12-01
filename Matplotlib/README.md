@@ -61,3 +61,5 @@
  **7. [Formatting Axes](https://www.tutorialspoint.com/matplotlib/matplotlib_formatting_axes.htm)**
  
  **8. [Twin Axes](https://www.tutorialspoint.com/matplotlib/matplotlib_twin_axes.htm)**
+ 
+ **9. [Bar Plot](https://www.tutorialspoint.com/matplotlib/matplotlib_bar_plot.htm)**
