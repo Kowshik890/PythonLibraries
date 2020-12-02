@@ -63,3 +63,5 @@
  **8. [Twin Axes](https://www.tutorialspoint.com/matplotlib/matplotlib_twin_axes.htm)**
  
  **9. [Bar Plot](https://www.tutorialspoint.com/matplotlib/matplotlib_bar_plot.htm)**
+ 
+ **10. [Histogram](https://www.tutorialspoint.com/matplotlib/matplotlib_histogram.htm)**
