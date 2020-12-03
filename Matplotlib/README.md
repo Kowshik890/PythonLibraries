@@ -65,3 +65,5 @@
  **9. [Bar Plot](https://www.tutorialspoint.com/matplotlib/matplotlib_bar_plot.htm)**
  
  **10. [Histogram](https://www.tutorialspoint.com/matplotlib/matplotlib_histogram.htm)**
+ 
+ **11. [Pie Chart](https://www.tutorialspoint.com/matplotlib/matplotlib_pie_chart.htm)**
