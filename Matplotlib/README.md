@@ -67,3 +67,5 @@
  **10. [Histogram](https://www.tutorialspoint.com/matplotlib/matplotlib_histogram.htm)**
  
  **11. [Pie Chart](https://www.tutorialspoint.com/matplotlib/matplotlib_pie_chart.htm)**
+ 
+ **12. [Scatter Plot](https://www.tutorialspoint.com/matplotlib/matplotlib_scatter_plot.htm)**
