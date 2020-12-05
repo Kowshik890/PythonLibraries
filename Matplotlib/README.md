@@ -39,7 +39,7 @@
     
            ncols = divide the main plot into number(ncols)
            
-               Example: if ncols = 1, that means the main plot is equal to subplot.
+               Example: if ncols = 1, that means the main plot is equal to subplot. 
                
                         if ncols = 2, that means the main plot is divided by 2. The subplot size will be half of the main plot.
                         
