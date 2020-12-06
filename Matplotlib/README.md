@@ -49,7 +49,7 @@
                
     * N.B: If we give the same value of two subplot function, one will be overwrite by the existing one.
  * **fig.add_subplot(nrows, ncols, index, facecolor='color name')**
-   * Example:
+   * Example: 
         fig.add_subplot(221, facecolor='y')   # Here, facecolor = 'y' (yellow) is used for the background color for the subplot.
    * The add_subplot() function of the figure class will not overwrite the existing plot.
  * N.B: You can add an insert plot in the same figure by adding another axes object in the same figure canvas.
