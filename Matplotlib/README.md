@@ -30,3 +30,42 @@
       * ‘-‘	- Solid line, ‘—‘ -	Dashed line, ‘-.’ -	Dash-dot line, ‘:’ -	Dotted line, ‘H’ -	Hexagon marker
 
  **4. [Multiplots](https://www.tutorialspoint.com/matplotlib/matplotlib_multiplots.htm)**
+  * **plt.subplot(subplot(nrows, ncols, index)**
+    * Example: 
+         plt.subplot(211) or plt.subplot(2,1,1)
+    * Here, 
+           
+           nrows = rows (maintain a distance between subplot and main plot and describe as number of plots also)
+    
+           ncols = divide the main plot into number(ncols)
+           
+               Example: if ncols = 1, that means the main plot is equal to subplot. 
+               
+                        if ncols = 2, that means the main plot is divided by 2. The subplot size will be half of the main plot.
+                        
+           index = the position of the subplot according to the main plot.
+           
+               Example: if ncols = 3 and index = 2, that means, the main plot will be divided by 3 and the subplot will be in the 2nd or middle position.
+               
+    * N.B: If we give the same value of two subplot function, one will be overwrite by the existing one.
+ * **fig.add_subplot(nrows, ncols, index, facecolor='color name')**
+   * Example: 
+        fig.add_subplot(221, facecolor='y')   # Here, facecolor = 'y' (yellow) is used for the background color for the subplot.
+   * The add_subplot() function of the figure class will not overwrite the existing plot.
+ * N.B: You can add an insert plot in the same figure by adding another axes object in the same figure canvas.
+  
+ **5. [Subplot2grid() Function](https://www.tutorialspoint.com/matplotlib/matplotlib_subplot2grid_function.htm)**
+ 
+ **6. [Grids](https://www.tutorialspoint.com/matplotlib/matplotlib_grids.htm)**
+ 
+ **7. [Formatting Axes](https://www.tutorialspoint.com/matplotlib/matplotlib_formatting_axes.htm)**
+ 
+ **8. [Twin Axes](https://www.tutorialspoint.com/matplotlib/matplotlib_twin_axes.htm)**
+ 
+ **9. [Bar Plot](https://www.tutorialspoint.com/matplotlib/matplotlib_bar_plot.htm)**
+ 
+ **10. [Histogram](https://www.tutorialspoint.com/matplotlib/matplotlib_histogram.htm)**
+ 
+ **11. [Pie Chart](https://www.tutorialspoint.com/matplotlib/matplotlib_pie_chart.htm)**
+ 
+ **12. [Scatter Plot](https://www.tutorialspoint.com/matplotlib/matplotlib_scatter_plot.htm)**
