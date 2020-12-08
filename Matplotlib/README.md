@@ -68,7 +68,16 @@
   * for customize of grid() [color, ls(linestyle), lw are the parameters]
  
  **7. [Formatting Axes](https://www.tutorialspoint.com/matplotlib/matplotlib_formatting_axes.htm)**
- 
+  * **axes[1].set_yscale("log")**
+    * this syntax will help to set the large curve in y axis
+  * **axes[0].xaxis.labelpad = 10**
+    * Distance between axis numbers and axis label is 10 in X axis from axes[0]
+  * **Axis spines**
+    * The axes object has spines located at top, bottom, left and right.
+    * Each spine can be formatted by specifying color and width.
+    * Any edge can be made invisible if its color is set to 'None'.
+      * for example: ax.spines['right'].set_color(None)    # This edge will be invisible
+  
  **8. [Twin Axes](https://www.tutorialspoint.com/matplotlib/matplotlib_twin_axes.htm)**
  
  **9. [Bar Plot](https://www.tutorialspoint.com/matplotlib/matplotlib_bar_plot.htm)**
