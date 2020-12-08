@@ -55,8 +55,17 @@
  * N.B: You can add an insert plot in the same figure by adding another axes object in the same figure canvas.
   
  **5. [Subplot2grid() Function](https://www.tutorialspoint.com/matplotlib/matplotlib_subplot2grid_function.htm)**
+  * **plt.subplot2grid(shape, location, rowspan, colspan)**
+    * Subplot2grid() Function is used to span across multiple rows or columns.
+  * **plt.tight_layout()**
+    * Used to maintain a proper distance from one plot to another
  
  **6. [Grids](https://www.tutorialspoint.com/matplotlib/matplotlib_grids.htm)**
+  * figsize(width, height) --> figure size
+  * lw = linewide (Width or density of the curved line)
+  * ls = linestyle (for example: '.', '--', '-.' etc)
+  * grid(True) = default grid
+  * for customize of grid() [color, ls(linestyle), lw are the parameters]
  
  **7. [Formatting Axes](https://www.tutorialspoint.com/matplotlib/matplotlib_formatting_axes.htm)**
  
