@@ -79,6 +79,9 @@
       * for example: ax.spines['right'].set_color(None)    # This edge will be invisible
   
  **8. [Twin Axes](https://www.tutorialspoint.com/matplotlib/matplotlib_twin_axes.htm)**
+  * **a2 = a1.twinx()**
+    * the value of X axis will be remain same for both curves
+    * in "twiny()" function, the value of Y axis will be remain same for both curves
  
  **9. [Bar Plot](https://www.tutorialspoint.com/matplotlib/matplotlib_bar_plot.htm)**
  
