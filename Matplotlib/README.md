@@ -66,7 +66,7 @@
   * ls = linestyle (for example: '.', '--', '-.' etc)
   * grid(True) = default grid
   * for customize of grid() [color, ls(linestyle), lw are the parameters]
- 
+  
  **7. [Formatting Axes](https://www.tutorialspoint.com/matplotlib/matplotlib_formatting_axes.htm)**
   * **axes[1].set_yscale("log")**
     * this syntax will help to set the large curve in y axis
