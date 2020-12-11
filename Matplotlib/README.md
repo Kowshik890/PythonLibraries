@@ -66,7 +66,7 @@
   * ls = linestyle (for example: '.', '--', '-.' etc)
   * grid(True) = default grid
   * for customize of grid() [color, ls(linestyle), lw are the parameters]
- 
+  
  **7. [Formatting Axes](https://www.tutorialspoint.com/matplotlib/matplotlib_formatting_axes.htm)**
   * **axes[1].set_yscale("log")**
     * this syntax will help to set the large curve in y axis
@@ -79,6 +79,9 @@
       * for example: ax.spines['right'].set_color(None)    # This edge will be invisible
   
  **8. [Twin Axes](https://www.tutorialspoint.com/matplotlib/matplotlib_twin_axes.htm)**
+  * **a2 = a1.twinx()**
+    * the value of X axis will be remain same for both curves
+    * in "twiny()" function, the value of Y axis will be remain same for both curves
  
  **9. [Bar Plot](https://www.tutorialspoint.com/matplotlib/matplotlib_bar_plot.htm)**
  
