@@ -104,7 +104,7 @@
   * **pie(x, labels, colors, autopct)**
     * x       = array-like. The wedge sizes.
     * labels  = list. A sequence of strings providing the labels for each wedge.
-    * autopct = the format for numbers %1.2f%
+    * autopct = the format for numbers %1.2f% 
     * For example: ax.pie(students, labels = langs,autopct='%1.2f%%') # color is optional parameter
  
  **12. [Scatter Plot](https://www.tutorialspoint.com/matplotlib/matplotlib_scatter_plot.htm)**
