@@ -1,6 +1,6 @@
 # Matplotlib Learning & Practicing
 
-## Topic's Name 
+## Topic's Name
 
 **1. [PyLab Module](https://www.tutorialspoint.com/matplotlib/matplotlib_pylab_module.htm)**
   * **Basic Plotting**
