@@ -99,7 +99,7 @@
     * Bin the range of values.
     * Divide the entire range of values into a series of intervals.
     * Count how many values fall into each interval.
- 
+
  **11. [Pie Chart](https://www.tutorialspoint.com/matplotlib/matplotlib_pie_chart.htm)**
   * **pie(x, labels, colors, autopct)**
     * x       = array-like. The wedge sizes.
