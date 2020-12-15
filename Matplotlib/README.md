@@ -1,6 +1,6 @@
 # Matplotlib Learning & Practicing
 
-## Topic's Name 
+## Topic's Name
 
 **1. [PyLab Module](https://www.tutorialspoint.com/matplotlib/matplotlib_pylab_module.htm)**
   * **Basic Plotting**
@@ -84,9 +84,29 @@
     * in "twiny()" function, the value of Y axis will be remain same for both curves
  
  **9. [Bar Plot](https://www.tutorialspoint.com/matplotlib/matplotlib_bar_plot.htm)**
+  * **ax.bar(x, height, width, bottom, align)**
+    * x      = input value
+    * height = output value (y axis)
+    * width  = bar size in wide
+    * bottom = from where it will start
+    * align  = {'center', 'edge'}, optional, default 'center'
+  * pyplot.bar() function allows to specify a starting value for a bar
  
  **10. [Histogram](https://www.tutorialspoint.com/matplotlib/matplotlib_histogram.htm)**
- 
+  * **ax.hist(a, bins = [0,25,50,75,100])**  
+    * Bin the range of values
+  * To construct a histogram, follow these steps −
+    * Bin the range of values.
+    * Divide the entire range of values into a series of intervals.
+    * Count how many values fall into each interval.
+
  **11. [Pie Chart](https://www.tutorialspoint.com/matplotlib/matplotlib_pie_chart.htm)**
+  * **pie(x, labels, colors, autopct)**
+    * x       = array-like. The wedge sizes.
+    * labels  = list. A sequence of strings providing the labels for each wedge.
+    * autopct = the format for numbers %1.2f% 
+    * For example: ax.pie(students, labels = langs,autopct='%1.2f%%') # color is optional parameter
  
  **12. [Scatter Plot](https://www.tutorialspoint.com/matplotlib/matplotlib_scatter_plot.htm)**
+  * **scatter(data range, data, color)**
+    * For example: ax.scatter(grade_range, girls_grades, color = 'b')
