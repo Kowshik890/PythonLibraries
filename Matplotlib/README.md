@@ -106,7 +106,7 @@
     * labels  = list. A sequence of strings providing the labels for each wedge.
     * autopct = the format for numbers %1.2f% 
     * For example: ax.pie(students, labels = langs,autopct='%1.2f%%') # color is optional parameter
- 
+
  **12. [Scatter Plot](https://www.tutorialspoint.com/matplotlib/matplotlib_scatter_plot.htm)**
   * **scatter(data range, data, color)**
     * For example: ax.scatter(grade_range, girls_grades, color = 'b')
