@@ -7,7 +7,7 @@
     * Plotting curves is done with the plot command
   * **Multiple Plotting Curves** 
     * Plots can be overlaid. Just use the multiple plot commands.
-  
+ 
 **2. [Object-oriented Interface](https://www.tutorialspoint.com/matplotlib/matplotlib_object_oriented_interface.htm)**
   * **fig = plt.figure()**
     * create a figure instance which provides an empty canvas.
