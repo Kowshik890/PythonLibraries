@@ -34,7 +34,7 @@
     * Example: 
          plt.subplot(211) or plt.subplot(2,1,1)
     * Here, 
-           
+          
            nrows = rows (maintain a distance between subplot and main plot and describe as number of plots also)
     
            ncols = divide the main plot into number(ncols)
